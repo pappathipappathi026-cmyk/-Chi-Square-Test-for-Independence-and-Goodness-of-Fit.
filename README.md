@@ -41,3 +41,10 @@ The calculated p-value is 0.3595, indicating that there is insufficient evidence
 ## Conclusion
 
 This project provides practical knowledge of statistical hypothesis testing using Python. It demonstrates how Chi-Square tests can be used to analyze categorical data, identify relationships between variables, and evaluate expected distributions. It also highlights the importance of statistical analysis in Data Science, Machine Learning, and Artificial Intelligence.
+
+## 🔗 GitHub Repository
+
+**GitHub Repository Link:**  
+https://github.com/pappathipappathi026-cmyk/Chi-Square-Test
+
+**Project Notebook:** Chi-Square Test for Independence and Goodness of Fit
