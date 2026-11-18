@@ -45,6 +45,6 @@ This project provides practical knowledge of statistical hypothesis testing usin
 ## 🔗 GitHub Repository
 
 **GitHub Repository Link:**  
-https://github.com/pappathipappathi026-cmyk/Chi-Square-Test
+https://github.com/pappathipappathi026-cmyk/-Chi-Square-Test-for-Independence-and-Goodness-of-Fit./blob/main/24_%20Chi-Square%20Test%20for%20Independence%20and%20Goodness%20of%20Fit.ipynb
 
 **Project Notebook:** Chi-Square Test for Independence and Goodness of Fit
